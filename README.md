@@ -6,12 +6,9 @@ This repository focuses on the data cleaning process for an Airbnb Open Data dat
 
 - [Overview](#overview)
 - [Dataset](#dataset)
+- [Screenshot](#screenshot)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Cleaning Steps](#cleaning-steps)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -35,6 +32,10 @@ The dataset used in this project contains various information about Airbnb listi
 - Number of reviews
 - Availability
 - Room type
+
+## Screenshot
+
+![Dashboard Screenshot](https://github.com/khnmaten13/airbnb-data-analysis/blob/main/Screenshot%202024-10-10%20143919.png)
 
 ## Project Structure
 
